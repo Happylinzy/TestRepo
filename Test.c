@@ -11,3 +11,5 @@ void call () {
   cout 5
 
 }
+
+error("Add line 15")
