@@ -3,5 +3,11 @@
 int main (){
   std::cout<<"Hello World!"<<std::endl
   std::cout<<"Hello Foo!"<<std::endl
-   return 0
+  typedef int16_t local_Type; 
+  call()
+}
+
+void call () {
+  cout 5
+
 }
