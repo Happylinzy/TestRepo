@@ -1,15 +1,12 @@
-#include <iostream>
+// hello.c
+#include <stdint.h>
+static int16_t unusedtype ( void )
+{
+   typedef int16_t local_Type;   /* Non-compliant */
 
-int main (){
-  std::cout<<"Hello World!"<<std::endl
-  std::cout<<"Hello Foo!"<<std::endl
-  typedef int16_t local_Type; 
-  call()
+   return 67;
 }
 
-void call () {
-  cout 5
-
+void R_2_3 ( void )
+{
 }
-
-error("Add line 15")
