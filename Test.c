@@ -9,4 +9,5 @@ static int16_t unusedtype ( void )
 
 void R_2_3 ( void )
 {
+   print("std::out");
 }
